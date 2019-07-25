@@ -1,0 +1,42 @@
+Q10,Q1,Q4,Q2,Q13,Q3,Q5,Q6
+Participant ID,What is your age?,What is your gender?,What is your academic status?,What is your major?,What is your race/ethnicity?,How often do you play video games?,What kind of video games do you usually play?
+P001,18,Male,Freshman,Buisness Admin,Hispanic,2-3 times a week,First-Person Shooter
+P002,21,Female,Freshman,Exploratory Studies,Black/African American,Once a week,First-Person Shooter
+P003,22,Female,Senior,Political Science,Native American,Never,I do not play video games
+P004,18,Male,Freshman,Business,White,2-3 times a week,First-Person Shooter
+P005,20,Female,Junior,"Animal Science; Science, Technology and Society",Black/African American,Never,I do not play video games
+P006,18,Female,Freshman,Food Science and Technology,White,2-3 times a week,Role-playing Game
+P007,19,Male,Freshman,political science,Hispanic,2-3 times a week,First-Person Shooter
+P008,19,Male,Sophomore,Criminology,White,Daily,First-Person Shooter
+P009,18,Male,Freshman,exploratory,White,2-3 times a week,First-Person Shooter
+P010,18,Female,Freshman,Exploratory Studies,White,Less than once a month,Real-time Strategy
+P011,21,Female,Senior,Finance,White,,I do not play video games
+P012,19,Male,Freshman,Exploratory Studies,Asian/Pacific Islander,2-3 times a week,Real-time Strategy
+P013,21,Female,Junior,Psychology,Asian/Pacific Islander,Once a month,Role-playing Game
+P014,18,Female,Freshman,Business Administration,White,Never,I do not play video games
+P015,18,Female,Freshman,Exploratory Studies,White,Less than once a month,I do not play video games
+P016,18,Female,Freshman,exploratory studies,White,Never,I do not play video games
+P017,18,Male,Freshman,Accounting,White,Once a week,First-Person Shooter
+P018,19,Male,Sophomore,Business Administration,Asian/Pacific Islander,2-3 times a month,Racing
+P019,18,Male,Freshman,Statistics,White,Daily,Real-time Strategy
+P020,19,Female,Sophomore,Genetics,Black/African American,Never,I do not play video games
+P021,19,Female,Freshman,Applied Mathematics,Asian/Pacific Islander,Less than once a month,First-Person Shooter
+P022,19,Male,Freshman,Exploratory/Undecided,White,Once a week,First-Person Shooter
+P023,18,Male,Freshman,Exploratory Studies,Native American,2-3 times a week,Real-time Strategy
+P024,18,Female,Freshman,Zoology,White,Less than once a month,Racing
+P025,18,Male,Freshman,education,White,Never,I do not play video games
+P026,20,Female,Sophomore,Biochemistry,White,Never,I do not play video games
+P027,18,Male,Freshman,Political Science,White,Never,I do not play video games
+P028,19,Male,Sophomore,Business,White,Daily,Racing
+P029,19,Male,Freshman,Computer Science,Asian/Pacific Islander,Once a week,First-Person Shooter
+P030,19,Female,Sophomore,"Computer Science/Psychology (double major, hopefully)",White,2-3 times a month,First-Person Shooter
+P031,19,Female,Sophomore,Human Biology ,White,2-3 times a month,First-Person Shooter
+P032,18,Male,Freshman,Exploratory Sudies,Asian/Pacific Islander,Daily,First-Person Shooter
+P033,18,Female,Freshman,Exploratory Studies,White,Once a month,Racing
+P034,19,Male,Junior,Accounting,Hispanic,Less than once a month,Real-time Strategy
+P035,18,Male,Freshman,Business Administation,Black/African American,Less than once a month,Real-time Strategy
+P036,19,Female,Sophomore,Biology,Asian/Pacific Islander,Never,I do not play video games
+P037,19,Female,Sophomore,Biology,White,Never,I do not play video games
+P038,19,Female,Sophomore,Industrial Engineering ,Black/African American,Less than once a month,Real-time Strategy
+P039,19,Female,Sophomore,Art + Design,Asian/Pacific Islander,Once a month,First-Person Shooter
+P040,18,Female,Freshman,Spanish Langauge ,White,Never,I do not play video games
